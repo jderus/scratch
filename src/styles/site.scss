@@ -1,0 +1,10 @@
+/// This is an example of blue in color pallette
+$color1 : #ffccff;
+/// This is an example of red in color pallette
+$color2 : #ff00ff;
+
+h1 {
+    color: $color2;
+    background-color: $color1;
+    padding: 0.5em;
+}

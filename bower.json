@@ -1,0 +1,12 @@
+{
+  "name": "SCRATCH",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.3",
+    "angular-route": "1.4.3",
+    "angular-resource": "1.4.3",
+    "angular-mocks": "1.4.3",
+
+    "bootstrap": "3.0.0"
+  }
+}
